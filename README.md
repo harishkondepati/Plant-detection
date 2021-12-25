@@ -7,5 +7,5 @@ Android repo : https://github.com/harishkondepati/Plant-detection/tree/master
 
 Download model.tflite file for android https://hareeshsmarttechnologies.in/medicinal_plant_dataset/model.tflite
 # Hareesh Smart Technologies
-https://hareeshsmarttechnologies.in <br>
-https://hareeshsmarttechnologies.in/portfolio/hari/
+<br>
+https://queotech.com/portfolio/hari/
